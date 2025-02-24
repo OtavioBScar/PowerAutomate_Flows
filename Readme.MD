@@ -31,3 +31,7 @@ This automation ensures that the recipient receives an updated sales dashboard e
  - **Result**:<br>
 ![firstResult](./firstAutomationEmail.jpg)
 
+## Automatic file sorter 
+
+![SecondAutomation](./secondAutomation)
+
