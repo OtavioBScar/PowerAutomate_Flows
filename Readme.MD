@@ -33,5 +33,5 @@ This automation ensures that the recipient receives an updated sales dashboard e
 
 ## Automatic file sorter 
 
-![SecondAutomation](./secondAutomation)
+![SecondAutomation](./secondAutomation.jpg)
 
